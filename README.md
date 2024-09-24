@@ -11,3 +11,7 @@ This dataset contains the population of different countries collected by the Wor
 - Top 10 most populated countries in 2023, 2013, 2003, 1993,and 1983
 - Count of countries by income group
 - Count of countries by region
+
+## Key Insights:
+- India is the most populated country in 2023
+- Total Population of the world is 9 Billion
